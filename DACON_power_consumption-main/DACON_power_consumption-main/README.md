@@ -1,2 +1,2 @@
-# DACON_power_consumption
-전력사용량 예측 AI 모델 개발
+추가로 공부하기 위해 구했던 코드 2
+
